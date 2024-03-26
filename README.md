@@ -29,6 +29,7 @@ Contributions are welcome! If you have any ideas for improvements or new feature
 3. Commit your changes (`git commit -am 'Add new feature'`)
 4. Push to the branch (`git push origin feature`)
 5. Create a new Pull Request
+6. Future ideas are to perfect the movement of the eyes so they equally reach all parts of the containers
 
 ## License
 
